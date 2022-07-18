@@ -1,3 +1,4 @@
+# Written by Beau Daoust (2022)
 import strip, price_swap, input_data
 
 # runs all modules

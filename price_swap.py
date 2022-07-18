@@ -1,3 +1,4 @@
+# Written by Beau Daoust (2022)
 import csv, openpyxl
 
 # STEP 2: append price to each row

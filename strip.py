@@ -1,3 +1,4 @@
+# Written by Beau Daoust (2022)
 import csv
 
 # Step 1: strip all items of trailing whitespace
