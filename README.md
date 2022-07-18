@@ -1,6 +1,6 @@
 # FieldPulse ETL Pipeline 
 ###### by Beau Daoust (2022)
-This project processes user-generated CSV data and loads it to a template XLSX file to then upload to the FieldPulse app.
+This project processes user-generated CSV data and loads it to a template XLSX file, ready to be uploaded to the FieldPulse app.
 
 *DISCLAIMER: this project was written for an appliance-focused company, but can be modified to suit your needs.*
 
