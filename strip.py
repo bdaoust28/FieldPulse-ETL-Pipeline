@@ -4,7 +4,6 @@ import csv
 # Step 1: strip all items of trailing whitespace
 def strip():
     items = csv.reader(open('items.csv', newline='', encoding='utf8'), delimiter=',')
-    #codes = csv.reader(open('codes.csv', newline='', encoding='utf8'), delimiter=',')
     with open('items-stripped.csv', 'w+', newline='') as s_items:
         writer = csv.writer(s_items, delimiter=',')
         for row in items:                   # row traversal
